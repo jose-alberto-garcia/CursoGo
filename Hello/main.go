@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jose-alberto-garcia/CursoGo/CursoGo/Format"
+	"github.com/jose-alberto-garcia/CursoGo/Format"
 )
 
 func main() {
